@@ -17,19 +17,23 @@ This project is a clone of **X.com (formerly Twitter)** built using **HTML** and
 ## 📌 Setup & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/x-clone.git
+   git clone https://github.com/chetan-1306/X.com-UI-clone.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd x-clone
+   cd X.com-UI-clone
    ```
 3. Open `index.html` in your browser.
 
+## Screenshots 📸
+![alt text](<Screenshot 2025-03-26 at 12.31.59.png>)
 
+![alt text](<Screenshot 2025-03-26 at 12.32.29.png>)
 
 ## 📜 License
 This project is for educational purposes and is **not affiliated with X.com (Twitter).**
 
 ---
+## Contributing 🤝
 Feel free to contribute and improve this project! 🚀
 
